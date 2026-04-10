@@ -1,5 +1,3 @@
-
-```blade
 @extends('layouts.app')
 
 @section('title', 'Users')
@@ -67,18 +65,3 @@ $users = [
 </x-data-table>
 
 @endsection
-```
-
----
-
-### Step 5 — Commit dan Push
-
-Setelah selesai edit kedua file, jalankan perintah ini di terminal:
-
-```bash
-git add resources/views/pages/settings.blade.php
-git add resources/views/pages/users.blade.php
-git add resources/views/pages/dashboard.blade.php
-git commit -m "fix: pisahkan konten settings dan users ke file yang benar"
-git push origin feature/ali-content
-```

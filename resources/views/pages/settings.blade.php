@@ -1,4 +1,3 @@
-```blade
 @extends('layouts.app')
 
 @section('title', 'Settings')
@@ -167,4 +166,3 @@
     });
 </script>
 @endpush
-```

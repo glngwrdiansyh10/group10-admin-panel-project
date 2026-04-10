@@ -127,7 +127,7 @@ git push origin feature/anggota1-ui
 
 ## 🛠️ Tech Stack
 
-- **Backend**: Laravel 11
+- **Backend**: Laravel 12
 - **Frontend**: Blade Template + Tailwind CSS v4
 - **Build Tool**: Vite
 - **Server lokal**: XAMPP (Apache + PHP)
