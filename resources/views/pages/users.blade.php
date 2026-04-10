@@ -9,7 +9,7 @@
 @php
 $users = [
     ['id'=> 1, 'name'=> 'Gilang Wardiansyah', 'email'=> 'gilang@group10.com',  'role'=> 'Administrator', 'status'=> 'active'],
-    ['id'=> 2, 'name'=> 'Nazwa Anggota',       'email'=> 'nazwa@group10.com',   'role'=> 'Editor',        'status'=> 'active'],
+    ['id'=> 2, 'name'=> 'Nazwa Hafifah',       'email'=> 'nazwa@group10.com',   'role'=> 'Editor',        'status'=> 'active'],
     ['id'=> 3, 'name'=> 'Ali Nurrohmat',       'email'=> 'ali@group10.com',     'role'=> 'Editor',        'status'=> 'active'],
     ['id'=> 4, 'name'=> 'Rizky Firmansyah',    'email'=> 'rizky@example.com',   'role'=> 'Viewer',        'status'=> 'active'],
     ['id'=> 5, 'name'=> 'Siti Rahayu',         'email'=> 'siti@example.com',    'role'=> 'Viewer',        'status'=> 'inactive'],
