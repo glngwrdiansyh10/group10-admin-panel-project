@@ -44,11 +44,11 @@
 {{-- ── Data Table menggunakan komponen x-data-table ── --}}
 @php
 $users = [
-    ['id'=> 1, 'name'=> 'Gilang Firmansyah', 'email'=> 'gilang@group10.com',  'role'=> 'Administrator', 'status'=> 'active'],
-    ['id'=> 2, 'name'=> 'Rizky Anggota 1',   'email'=> 'rizky@group10.com',   'role'=> 'Editor',        'status'=> 'active'],
-    ['id'=> 3, 'name'=> 'Siti Anggota 2',    'email'=> 'siti@group10.com',    'role'=> 'Viewer',        'status'=> 'inactive'],
-    ['id'=> 4, 'name'=> 'Ahmad User',        'email'=> 'ahmad@example.com',  'role'=> 'Editor',        'status'=> 'active'],
-    ['id'=> 5, 'name'=> 'Dewi User',         'email'=> 'dewi@example.com',   'role'=> 'Viewer',        'status'=> 'active'],
+    ['id'=> 1, 'name'=> 'Gilang Wardiansyah', 'email'=> 'gilang@group10.com',  'role'=> 'Administrator', 'status'=> 'active'],
+    ['id'=> 2, 'name'=> 'Nazwa Anggota',      'email'=> 'nazwa@group10.com',   'role'=> 'Editor',        'status'=> 'active'],
+    ['id'=> 3, 'name'=> 'Ali Nurrohmat',      'email'=> 'ali@group10.com',     'role'=> 'Editor',        'status'=> 'active'],
+    ['id'=> 4, 'name'=> 'Ahmad Fauzi',        'email'=> 'ahmad@example.com',   'role'=> 'Viewer',        'status'=> 'active'],
+    ['id'=> 5, 'name'=> 'Dewi Kusuma',        'email'=> 'dewi@example.com',    'role'=> 'Viewer',        'status'=> 'inactive'],
 ];
 @endphp
 
